@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-size: cover;
+    background-image: url("./parij.jpg"); 
+}
+.textbox{
+    width: 300px;
+    margin: 0 auto;
+   
+}
+.textbox input{
+    width: 100%;
+    margin: 10px 0;
+    padding: 5px;
+}
+.login {
+    text-align: center;
+    margin-top: 200px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.button {
+    width: 100px;
+    margin: 0 auto;
+    padding:  5px 0;
+}
+
